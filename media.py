@@ -7,7 +7,6 @@ import webbrowser
         poster_image_url(str): url string linking to an actual image on the internet
         trailer_youtube_url(str): youtube url pointing to trailer of the movie
     """
-class Movie():
 
 class Movie():
 
