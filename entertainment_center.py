@@ -3,8 +3,8 @@ import fresh_tomatoes
 
 # Instantiate movie objects
 ff7 = Movie("Fast and Furious 7", "It is the seventh installment in the Fast"
-			" and the Furious franchise.","https://upload.wikimedia.org/wikipedia/en/b/b8/Furious_7_poster.jpg",
-			"https://www.youtube.com/watch?v=TEiPbJNS8Mc")
+" and the Furious franchise.","https://upload.wikimedia.org/wikipedia/en/b/b8/Furious_7_poster.jpg",
+"https://www.youtube.com/watch?v=TEiPbJNS8Mc")
 
 toy_story = Movie("Toy Story", "A Story about a boy and his toys come alive",
 				  "http://img.lum.dolimg.com/v1/images/open-uri20150422-20810-m8zzyx_5670999f.jpeg?region=0,0,300,450",
