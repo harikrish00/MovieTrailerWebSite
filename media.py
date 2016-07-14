@@ -9,8 +9,10 @@ import webbrowser
     """
 class Movie():
 
+class Movie():
+
     VALID_RATINGS = ['R','PG','PG13','NR']
-    def __init__(self, title, story_line, poster_image, trailer):
+    def __init__(self,title, story_line, poster_image, trailer):
         self.title = title
         self.story_line = story_line
         self.poster_image_url = poster_image
